@@ -1,0 +1,4 @@
+1. keyword.kwlist -> stores all Python keywords in a list format
+   Here kw means keywords and list means list.
+   If you want to print all the keywords of python then first import keyword and then print(keyword.kwlist)
+   
